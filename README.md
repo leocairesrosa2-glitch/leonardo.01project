@@ -1,6 +1,9 @@
-div align="center">
-<img src="./banner-github.png" alt="Banner do perfil GitHub de Leonardo" width="100%">
-
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/leocairesrosa2-glitch/leonardo.01project/e816294de4f691016baf4b449ef1953a06bec251/ChatGPT%20Image%202%20de%20set.%20de%202026%2C%2021_12_22%20(2).png"
+    width="100%"
+    alt="Banner de Leonardo Caires"
+  />
 </div>
 
 # 👋 Olá, eu sou Leonardo!
